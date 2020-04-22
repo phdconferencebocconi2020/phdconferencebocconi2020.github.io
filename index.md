@@ -8,7 +8,7 @@ title: PhD Virtual Conference @ Bocconi 2020
 
 The PhD School of Bocconi University invites submissions to its first  PhD Virtual Conference.
 The conference will be held via `[tool]` on `[date(s)]`.
-The Virtual Conference will give PhD students and candidates an opportunity to presnet their work and receive feedback despite current travel restrictions.
+The Virtual Conference will give PhD students and candidates an opportunity to present their work and receive feedback despite current travel restrictions.
 
 Submissions are welcome in all areas of Economics and Finance.
 The conference is particularly aimed at those going on the Job Market next year, but submissions from PhD students/candidates at early stages are also welcome (and encouraged!).
