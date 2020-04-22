@@ -12,4 +12,4 @@ Please note, the **deadline for the submission of papers is on May 15<sup>th</su
 | `d_0` | Opening of submissions                 |
 | `d_1` | **Deadline for paper submissions**     |
 | `d_2` | Notification of acceptance             |
-| `d_3` | Conference start                       |
+| `d_3` | Conference start!                       |
