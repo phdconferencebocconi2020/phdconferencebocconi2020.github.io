@@ -18,7 +18,7 @@ Authors of selected papers will be asked to discuss a paper related to their fie
 Faculty members at Bocconi University will attend presentations.
 
 The deadline for submissions is on `[date]` at 23:59 [CEST](https://time.is/CEST).
-Email your paper to [phd.virtual.conference.bocconi.2020@gmail.com](mailto:phd.virtual.conference.bocconi.2020@gmail.com).
+Email your paper to [phd.conference.bocconi.2020@gmail.com](mailto:phd.conference.bocconi.2020@gmail.com).
 Attach your paper in PDF format without any ID information to your email.
 The review process is double-blind.
 
