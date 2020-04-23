@@ -2,8 +2,6 @@
 
 This repository contains all resources to create the website we will use for the PhD Virtual Conference at Bocconi University.
 
-![home preview](home_preview.png)
-
 
 ## Generating a local preview of the website
 
