@@ -35,6 +35,8 @@ header_pages:
   - timeline.md
   - logistics.md
   - about.md
+  
+google_analytics: UA-164484774-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
